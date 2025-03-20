@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_MirrorRUP1",
-    "path":"sprites/s_MirrorRUP1/s_MirrorRUP1.yy",
+    "name":"s_red_mirror",
+    "path":"sprites/s_red_mirror/s_red_mirror.yy",
   },
   "spriteMaskId":null,
   "visible":true,

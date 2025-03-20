@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_Filter",
-    "path":"sprites/s_Filter/s_Filter.yy",
+    "name":"s_filter",
+    "path":"sprites/s_filter/s_filter.yy",
   },
   "spriteMaskId":null,
   "visible":true,

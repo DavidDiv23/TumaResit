@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_TileOFF",
-    "path":"sprites/s_TileOFF/s_TileOFF.yy",
+    "name":"s_tile",
+    "path":"sprites/s_tile/s_tile.yy",
   },
   "spriteMaskId":null,
   "visible":true,
