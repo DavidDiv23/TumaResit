@@ -57,7 +57,7 @@
     {"id":{"name":"s_Projector","path":"sprites/s_Projector/s_Projector.yy",},},
     {"id":{"name":"s_red_mirror","path":"sprites/s_red_mirror/s_red_mirror.yy",},},
     {"id":{"name":"s_tile","path":"sprites/s_tile/s_tile.yy",},},
-    {"id":{"name":"s_TileFlag","path":"sprites/s_TileFlag/s_TileFlag.yy",},},
+    {"id":{"name":"s_tileFlag","path":"sprites/s_tileFlag/s_tileFlag.yy",},},
     {"id":{"name":"s_TileON","path":"sprites/s_TileON/s_TileON.yy",},},
     {"id":{"name":"s_TileSpace","path":"sprites/s_TileSpace/s_TileSpace.yy",},},
   ],
